@@ -1,0 +1,36 @@
+EXPECTED OUTPUT — KEY RESULTS
+
+The program should successfully add:
+- Asha Sharma (SAP ID: 1001)
+- Rahul Verma (SAP ID: 1002)
+- Neha Singh (SAP ID: 1003)
+
+Academic Advisor results:
+
+SAP ID: 1001
+CGPA: 9.50
+Category: Excellent Performance
+Recommendation: Maintain your current study pattern and continue working consistently.
+
+SAP ID: 1002
+CGPA: 8.00
+Category: Good Performance
+Recommendation: Keep working consistently and aim for a higher CGPA.
+
+SAP ID: 1003
+CGPA: 5.50
+Category: Requires Immediate Attention
+Recommendation: Improve your study routine and seek academic guidance.
+
+After each advisor result, the program should return to the main menu.
+It should terminate when option 9 is selected.
+
+NOTES
+- This is a key-results checklist, not a transcript of every menu and prompt.
+  Exact prompt wording and spacing depend on the C source version.
+- Assumed CGPA categories:
+  9.00–10.00: Excellent Performance
+  7.50–8.99: Good Performance
+  6.00–7.49: Needs Improvement
+  Greater than 0 and below 6.00: Requires Immediate Attention
+- SGPA values of 0 are treated as unavailable and excluded from CGPA.
