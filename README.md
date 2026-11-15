@@ -103,8 +103,7 @@ ChatGPT was used as an assistance tool during development to review code, explai
 Refer to `AI_Usage_Log_Student_Record_Management_System.md` for the prompts and ideas used.
 
 ## Author
-
-Add your name, course, class, and other required academic details here.
+Harsimar Singh 
 
 ---
 
